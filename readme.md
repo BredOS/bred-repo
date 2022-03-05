@@ -5,4 +5,4 @@ Use this repo by adding this to your `/etc/pacman.conf`
 SigLevel = Never
 Server= https://github.com/BredGang/bred-repo/raw/main/
 
-```
+``
